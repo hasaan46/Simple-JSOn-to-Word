@@ -1,4 +1,4 @@
-# Simple-JSOn-to-Word
+# Simple-Json-to-Word
 
 Hast du jemals stundenlang JSON-Dateien analysiert und ihre Inhalte manuell in Word-Dokumente übertragen? Ich auch! Aber nicht mehr. Dieses Python-Tool wurde aus meiner eigenen Frustration geboren, JSON-Daten effizient und präzise in Word-Dokumente zu konvertieren.
 
