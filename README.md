@@ -4,8 +4,6 @@ Hast du jemals stundenlang JSON-Dateien analysiert und ihre Inhalte manuell in W
 
 Funktionen:
 
-javascript
-
 JSON zu Word: Unser Tool ermöglicht die nahtlose Konvertierung von JSON-Dateien in Word-Dokumente. Es verarbeitet komplexe JSON-Strukturen und erstellt gleichzeitig übersichtliche und gut formatierte Word-Dokumente.
 
 Anpassbare Vorlagen: Verabschiede dich von manuellen Anpassungen! Das Tool bietet die Flexibilität, individuelle Vorlagen zu erstellen und die JSON-Struktur perfekt daran anzupassen.
@@ -19,8 +17,6 @@ JSON-Daten sind eine wertvolle Informationsquelle, aber ihre manuelle Konvertier
 Verschwende keine Zeit mehr mit mühsamen Konvertierungsprozessen. Mit diesem Tool kannst du JSON in Word in kürzester Zeit umwandeln und dich auf wichtigere Aufgaben konzentrieren.
 
 So verwendest du das Tool:
-
-perl
 
 Lade das Repository herunter.
 Installiere die erforderlichen Abhängigkeiten.
